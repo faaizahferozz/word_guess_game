@@ -30,7 +30,7 @@ Words Included
 
 Setup Instructions
   1. Clone the repository -
-  ```bash 
+  "```bash " (remove double quotes)
   git clone https://github.com/faaizahferozz/word_guess_game.git
   cd word_guess_game
   2.	Create a virtual environment -
