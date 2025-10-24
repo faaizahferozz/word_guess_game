@@ -9,10 +9,10 @@ Features
 - Highscore tracking: Save the player with the fewest guesses. 
 
 Words Included
-    "haakh": "Favourite leafy vegetable",
-    "yemberzal": "Pampore is famous for?",
-    "phiran": "Keeps us warm in winter",
-    "noonchai": "Pink tea",
+    1. "haakh": "Favourite leafy vegetable",
+    2. "yemberzal": "Pampore is famous for?",
+    3. "phiran": "Keeps us warm in winter",
+    4. "noonchai": "Pink tea",
     "wanwun": "Weddings are incomplete without?",
     "wazwan": "Grand feast",
     "kulche": "noon chai te?",
