@@ -29,16 +29,16 @@ Words Included
     "harud": "Favourite season".
 
 Setup Instructions
-  1. Clone the repository
-  "```bash" (remove the double quotes)
+  1. Clone the repository -
+  ```bash 
   git clone https://github.com/faaizahferozz/word_guess_game.git
   cd word_guess_game
-  2.	Create a virtual environment
+  2.	Create a virtual environment -
   python3 -m venv venv
   source venv/bin/activate
-  3.	Install dependencies
+  3.	Install dependencies -
   pip install colorama
-  4.	Run the game
+  4.	Run the game -
   python word_guess_game.py
 
 
