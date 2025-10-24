@@ -8,11 +8,12 @@ Features
 - Colorful terminal output using `colorama`.  
 - Highscore tracking: Save the player with the fewest guesses. 
 
-Words Included
-    1. "haakh": "Favourite leafy vegetable",
-    2. "yemberzal": "Pampore is famous for?",
-    3. "phiran": "Keeps us warm in winter",
-    4. "noonchai": "Pink tea",
+Words Included -
+
+    "haakh": "Favourite leafy vegetable",
+    "yemberzal": "Pampore is famous for?",
+    "phiran": "Keeps us warm in winter",
+    "noonchai": "Pink tea",
     "wanwun": "Weddings are incomplete without?",
     "wazwan": "Grand feast",
     "kulche": "noon chai te?",
@@ -29,20 +30,23 @@ Words Included
     "harud": "Favourite season".
 
 Setup Instructions
-  1. Clone the repository -
+
+1. Clone the repository -
   "```bash " (remove double quotes)
   git clone https://github.com/faaizahferozz/word_guess_game.git
   cd word_guess_game
-  2.	Create a virtual environment -
+2. Create a virtual environment -
   python3 -m venv venv
   source venv/bin/activate
-  3.	Install dependencies -
+3. Install dependencies -
   pip install colorama
-  4.	Run the game -
+4. Run the game -
   python word_guess_game.py
 
 
+
 How to Play
+
 	1.	The game chooses a random Kashmiri word.
 	2.	You have 6 attempts to guess the word one letter at a time.
 	3.	Optionally, you can ask for a hint.
@@ -51,6 +55,7 @@ How to Play
 	6.	Highscores are saved in highscore.json.
 
 Game Play Example 
+
 Word: _ _ _ _ _ _ _ _ _
 Guessed letters: -
 Attempts left: 6
